@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: darkblue;
+    color: white;
+    .bomb-efect{
+        img{
+           width: 250px;
+           position: absolute;
+           top: 90px;
+           left: 500px;
+            // &:hover{
+            //     background-image: url(../img/Boom-PNG-Picture.png);
+            //     opacity: 1;
+            //     transition: .5s linear;
+            // }
+
+        }
+     }
+      .time{
+        h1{
+            position: absolute;
+            top: 380px;
+            left: 582px;
+        }
+      }
+      .img-text{
+        img{
+            position: absolute;
+            width: 660px;
+            left: 220px;
+            top: 0px;
+            //  opacity: 1;
+            // &:hover{
+            //     opacity: 0;
+            //     transition: .5s linear;
+            // }
+        }
+      }
+     
+
+
+}
+
